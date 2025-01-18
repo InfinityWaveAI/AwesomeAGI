@@ -1,0 +1,2 @@
+# AwesomeAGI
+Towards building AGI
